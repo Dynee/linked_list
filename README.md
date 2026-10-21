@@ -8,14 +8,11 @@ This project implements a singly linked list in the c programming language.
 ```sh
 gcc -fsanitize=address -g main.c linked_list.c -o ll
 ```
-```
-
-## Valgrind
 
 ```sh
 valgrind ./ll
-```
 
+```
 
 ## Run
 
